@@ -11,11 +11,11 @@ UNV  Programming Languages   which   are   listed   are   given  below..
 
 
 
-A) W@  =>  European  Programming Languages
+A) W@  =>  European  Programming Language
 
-B) IDollar  => Indian Programming Languages
+B) IDollar  => Indian Programming Language
 
-C) Arrowc  => American Programming Languages
+C) Arrowc  => American Programming Language
 
-D) Ajdollar  => Asian  Programming Languages
+D) Ajdollar  => Asian  Programming Language
 
